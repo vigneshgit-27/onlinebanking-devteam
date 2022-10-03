@@ -1,4 +1,4 @@
- 
+import java.util.scanner; 
 import java.lang.Math;  
 import java.io.printer; 
 import java.io.collection; 
